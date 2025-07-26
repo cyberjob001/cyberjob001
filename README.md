@@ -27,7 +27,7 @@ If it’s tech, I do it. If it’s new, I’m testing it. If it’s creative, I�
 
 ## 🏢 Enterprise & Networking
 
-- **12+ years:** Architecting, deploying, and automating infra and networks (finance, telco, web, gaming)
+- **18+ years:** Architecting, deploying, and automating infra and networks (finance, telco, web, gaming)
 - **Built:** High-availability, zero-downtime, realtime failover systems, global scale
 - **Tools:** Cisco ACI, Arista CVP, EVE-NG, GNS3, Packet Tracer, pfSense/OPNsense, and a huge stack of vendor and open source tech
 - **Experience:** All 7 OSI layers, from copper & fiber to APIs and distributed systems
@@ -91,6 +91,83 @@ If it’s tech, I do it. If it’s new, I’m testing it. If it’s creative, I�
 - **Custom automations:** Social media, enterprise, daily life, and creative AI hacks
 - **Reverse engineered:** APIs, ciphers, desktop/web apps, security flows — always learning, always sharing
 - **Self-hosted SaaS:** If it exists, I’ve run it (or built my own), from media to business ops
+
+---
+
+## 🚀 Tech Toolbox
+
+<p align="center">
+  <!-- Networking & Infra -->
+  <img src="https://img.shields.io/badge/Cisco%20ACI-1BA0D7?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arista%20CVP-0078D7?logo=arista&logoColor=white" />
+  <img src="https://img.shields.io/badge/Juniper-009639?logo=juniper-networks&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPNsense-FF8800?logo=opnsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ciena-0055A4?logo=ciena&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infoblox-002A45?logo=infoblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/BlueCat-0082C9?logo=bluecat&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-0A0A0A?logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/BMC%20Remedy-002A45?logo=bmcsoftware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" />
+
+  <!-- Virtualization & Cloud -->
+  <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/KVM-ED1C24?logo=kvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+
+  <!-- DevOps & Automation -->
+  <img src="https://img.shields.io/badge/Ansible-A80030?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-1A1AFF?logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FE6101?logo=n8n&logoColor=white" />
+
+  <!-- Programming & Scripting -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+
+  <!-- Web, SEO & Content -->
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF2D20?logo=blackmagicdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plex-E5A00D?logo=plex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=white" />
+
+  <!-- Monitoring & Reverse Engineering -->
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dnSpy-CC342D?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-000000?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiddler-7B5FA2?logo=microsoft&logoColor=white" />
+
+  <!-- Security & Auth -->
+  <img src="https://img.shields.io/badge/Keycloak-0066FF?logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/LDAP-3776AB?logo=ldap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0082C9?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white" />
+</p>
 
 ---
 
