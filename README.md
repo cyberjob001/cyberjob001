@@ -27,7 +27,7 @@ If it’s tech, I do it. If it’s new, I’m testing it. If it’s creative, I�
 
 ## 🏢 Enterprise & Networking
 
-- **18+ years:** Architecting, deploying, and automating infra and networks (finance, telco, web, gaming)
+- **12+ years:** Architecting, deploying, and automating infra and networks (finance, telco, web, gaming)
 - **Built:** High-availability, zero-downtime, realtime failover systems, global scale
 - **Tools:** Cisco ACI, Arista CVP, EVE-NG, GNS3, Packet Tracer, pfSense/OPNsense, and a huge stack of vendor and open source tech
 - **Experience:** All 7 OSI layers, from copper & fiber to APIs and distributed systems
