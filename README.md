@@ -1,6 +1,7 @@
 <!-- ===== Banner: Replace with your own image! ===== -->
 <p align="center">
   <img src="https://github.com/cyberjob001/cyberjob001/blob/main/github.png" alt="cyberjob001 Banner" width="80%">
+  <!-- img src="https://github.com/cyberjob001/cyberjob001/blob/main/github.png" alt="cyberjob001 Banner" width="80%" -->
 </p>
 
 <h1 align="center">👾 cyberjob001 — Full-Stack Tech Creator, Infra Wizard, and Relentless Explorer</h1>
