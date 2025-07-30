@@ -50,7 +50,7 @@
 - 🌐 Built and managed **75+ websites & eCommerce stores**
 - 🤖 Automated **thousands of hours** of workflows and personal life with custom bots/scripts/AI
 - 🏠 Home lab: **20+ VMs, 3 clouds, 10+ self-hosted SaaS**, and a cluster of testbeds
-- 🎬 **100+ videos created, 500k+ views** (YouTube/anime/content)
+- 🎬 **100+ videos created, 7 million+ views and counting** (YouTube/anime/content)
 - 💻 Managed **dozens of domains, DNS, and email stacks**
 - 🎮 Hosted and modded **multiple game servers**
 - 🤝 Mentored **dozens of devs/engineers** in tech, automation, and creative content
