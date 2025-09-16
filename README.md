@@ -47,9 +47,9 @@
 
 ## 🏆 Quick Stats
 - 🏢 **18+ years** in enterprise infra, automation, and all things tech (20+ counting my first PC hacks as a kid)
-- 🌐 Built and managed **75+ websites & eCommerce stores**
+- 🌐 Built and managed **40+ websites & eCommerce stores**
 - 🤖 Automated **thousands of hours** of workflows and personal life with custom bots/scripts/AI
-- 🏠 Home lab: **20+ VMs, 3 clouds, 10+ self-hosted SaaS**, and a cluster of testbeds
+- 🏠 Home lab: **100+ VMs, 3 clouds, 50+ self-hosted SaaS**, and a cluster of testbeds
 - 🎬 **100+ videos created, 7 million+ views and counting** (YouTube/anime/content)
 - 💻 Managed **dozens of domains, DNS, and email stacks**
 - 🎮 Hosted and modded **multiple game servers**
