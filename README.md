@@ -46,7 +46,7 @@
 ---
 
 ## 🏆 Quick Stats
-- 🏢 **18+ years** in enterprise infra, automation, and all things tech (20+ counting my first PC hacks as a kid)
+- 🏢 **18+ years** in enterprise infra, automation, and all things tech (13+ in enterprise, 5+ as freelance and self)
 - 🌐 Built and managed **40+ websites & eCommerce stores**
 - 🤖 Automated **thousands of hours** of workflows and personal life with custom bots/scripts/AI
 - 🏠 Home lab: **100+ VMs, 3 clouds, 50+ self-hosted SaaS**, and a cluster of testbeds
