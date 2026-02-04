@@ -31,7 +31,7 @@
 - [🚩 Featured Projects](#-featured-projects)
 - [🛠️ Now](#️-now)
 - [🏢 Enterprise & Networking](#-enterprise--networking)
-- [🏡 Home Lab Overlord](#-home-lab-overlord)
+- [🏡 Home Lab Enthusiast](#-home-lab-enthusiast)
 - [⚙️ DevOps, Automation & AI](#️-devops-automation--ai)
 - [🕵️ Reverse Engineering & Security](#-reverse-engineering--security)
 - [💻 Full-Stack, Web, & Content](#-full-stack-web--content)
@@ -94,7 +94,7 @@ If it’s tech, I do it. If it’s new, I’m testing it. If it’s creative, I�
 
 ---
 
-## 🏡 Home Lab Overlord
+## 🏡 Home Lab Enthusiast
 
 - **Virtualization:** Proxmox, ESXi, KVM, Docker, LXC, VirtualBox, Hyper-V, Portainer, OpenStack, AWS, Azure
 - **Self-hosted everything:** DNS, email, web, media (Jellyfin, Plex), Nextcloud, file sharing, analytics, monitoring, game servers, and more
